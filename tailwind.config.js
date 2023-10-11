@@ -7,14 +7,16 @@ export default {
         128: "32rem",
         300: "55rem",
       },
-    },
-    fontFamily: {
-      barlow: ["Barlow"],
-      fraunces: ["Fraunces"],
-    },
-    colors: {
-      footer: "hsl(168, 34%, 41%)",
-      footerText: "hsl(167, 40%, 24%)",
+      fontFamily: {
+        barlow: ["Barlow"],
+        fraunces: ["Fraunces"],
+        gabarito: ["Gabarito"],
+        youngSerif: ['Young Serif']
+      },
+      colors: {
+        footer: "#90D4C5",
+        footerText: "hsl(167, 40%, 24%)",
+      },
     },
   },
   plugins: [],

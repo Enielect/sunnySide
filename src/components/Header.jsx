@@ -13,8 +13,9 @@ function Header() {
 function Remainder() {
   return (
     <div className="my-11 ">
-      <h1 className="font-barlow text-3xl tracking-widest text-white">
+      <h1 className="font-youngSerif text-4xl tracking-widest text-white">
         WE ARE CREATIVES
+        <img src="images/icon-arrow-down.svg" alt="down-arrow" className="mx-auto py-56" />
       </h1>
     </div>
   );

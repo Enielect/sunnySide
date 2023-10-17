@@ -36,8 +36,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [check out the solution here](https://github.com/Enielect/sunnyside)
-- Live Site URL: [view live site](https://enielect.github.io/sunnySide)
+- Solution URL: [Add solution URL here](https://github.com/Enielect/sunnyside)
+- Live Site URL: [Add live site URL here](https://enielect.github.io/sunnySide)
 
 ## My process
 
@@ -48,21 +48,19 @@ I initially started with my desktop design to later find out that tailwind encou
 I still currently have some issues with the transitions in tailwind. I will go on to read more about it. Suggestions are absolutely encouraged. Thanks
 
 ### Built with
-
 [React](https://reactjs.org/) - JS library
 [Tailwindcss](https://tailwindcss.com) -CSS framework
 
-### What I learned
 
+### What I learned
 - I finally got started with tailwindcss, yay!!
 - It was great as I also implemented React which I am currently learing
 
 ### Continued development
-
 - Definitely learing more animations and transitions in tailwind and css in general
 
 ## Author
 
-- Website - [Enielect gitbub](https://github.com/Enielect)
-- Frontend Mentor - [@Enielect](https://www.frontendmentor.io/profile/Enielect)
-- Twitter - [@enielect](https://www.twitter.com/enielect)
+- Website - [Add your name here](https://github.com/Enielect)
+- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Enielect)
+- Twitter - [@yourusername](https://www.twitter.com/enielect)
